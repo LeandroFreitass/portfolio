@@ -1,9 +1,8 @@
 import Link from "next/link";
 import React from "react";
-import Button from "./Button";
-import ButtonLink from '../components/ButtonLink'
 
-const Card = ({ image, title, titleSub }) => {
+
+const Card = () => {
   return (
     <div  class="max-w-[300px] rounded overflow-hidden group hover:scale-105 hover:shadow-gray-600 hover:shadow-md  duration-300">
       <div>

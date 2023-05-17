@@ -1,6 +1,4 @@
-import Link from "next/link";
 import React from "react";
-import ButtonLink from "../../ButtonLink";
 
 const saqueComple = () => {
   return (

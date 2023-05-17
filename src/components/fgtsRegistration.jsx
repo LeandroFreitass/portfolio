@@ -1,11 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
-import { useState, useEffect } from "react";
-import { FaFacebook, FaLinkedinIn, FaTwitter } from "react-icons/fa";
-import axios from "axios";
-import { useForm } from "react-hook-form";
-import PhoneMask from "./PhoneMask";
 import Head from "next/head";
-import { useRouter } from "next/router";
 import Doubts from "./Doubts";
 
 const FgtsRegistration = () => {

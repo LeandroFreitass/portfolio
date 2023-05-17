@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import Link from "next/link";
 import { FiMenu } from "react-icons/fi";
 import { AiOutlineClose } from "react-icons/ai";
-import { BsEnvelope, BsInstagram, BsWhatsapp, BsGithub } from "react-icons/bs";
-import Dropteste from "./Dropteste";
 import Image from "next/image";
 
 const Navbar = () => {

@@ -1,7 +1,7 @@
 import Head from "next/head";
-import Hero from "@/components/Hero";
-import Servicos from "@/components/Servicos";
-import BankCardControl from "@/components/BankCardControl";
+import Hero from "../components/Hero";
+import Servicos from "../components/Servicos";
+import BankCardControl from "../components/BankCardControl";
 import FgtsRegistration from "../components/fgtsRegistration";
 
 export default function Home() {
